@@ -1,16 +1,21 @@
-# first project
+# namecreator
 
-## fork
+Ett litet program som läser in användare, förnamn och efternam och utifrån detta skapar unika användarnamn.
 
-ni ska forka det här projektet
+Användarnamn läses in från en fil users.csv, resultatet sparas i en csvfil usernicks.csv i formen
 
-## clone
+    förnamn, efternamn, användarnamn
 
-öppna det sedan i pycharm
+## användarnamn
 
-## push
+Användarnamn skapas utifrån algoritmen 2 första bokstäverna från förnamn och 5 första bokstäverna från efternamn.
 
-skapa er egen version av nick generator och pusha upp dennna
+ex 
 
+    bo, johansson
+    
+genererar 
+
+    bo, johansson, bojohan
 
 
