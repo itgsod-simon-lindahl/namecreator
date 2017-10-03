@@ -5,6 +5,11 @@
 ni ska forka det här projektet
 
 
+
+
+
+
+
 ## klona
 
 öppna det sedan i pycharm
