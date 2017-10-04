@@ -1,15 +1,12 @@
 # username creator
 
-Ett litet program som läser in användare, förnamn och efternam och utifrån detta skapar unika användarnamn.
+Programmet läser in en lista med för och efternamn och gör unika användarnamn
 
-Användarnamn läses in från en fil users.csv, resultatet skrivs ut
-
-    förnamn, efternamn, användarnamn
-
+Användarnamn läses in från users.csv, resultatet skrivs ut
 
 ## användarnamn
 
-Användarnamn skapas utifrån algoritmen 3 första bokstäverna från förnamn och 2 första bokstäverna från efternamn.
+Användrnamn skapas från första 3 bokstäverna i förnamn och 2 första i efternamn.
 
 ex
 
