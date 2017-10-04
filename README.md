@@ -1,12 +1,20 @@
-# First Project
+# username creator
 
-##fork
+Ett litet program som läser in användare, förnamn och efternam och utifrån detta skapar unika användarnamn.
 
-fork
+Användarnamn läses in från en fil users.csv, resultatet skrivs ut
 
-##close
+    förnamn, efternamn, användarnamn
 
-##push
+## användarnamn
 
-abc123
+Användarnamn skapas utifrån algoritmen 3 första bokstäverna från förnamn och 2 första bokstäverna från efternamn.
+
+ex
+
+    bosse, johansson
+
+genererar
+
+    bosjo
 
